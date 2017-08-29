@@ -1,0 +1,15 @@
+
+  {
+  "name": "Finn",
+  "show": "Adventure Time",
+  "skills": ["heroics", "Adventures"],
+  "avatar": "https://i.ytimg.com/vi/SfKJmCRW9bg/maxresdefault.jpg",
+  "friends": ["Jake", "BMO", "Princess Bubblegum", "LSP"]
+}
+{
+  "name": "Jake",
+  "show": "Adventure Time",
+  "skills": "Keytar",
+  "avatar": "https://vignette2.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/0b/Blush.jpg/revision/latest?cb=20131031114000",
+  "friends": ["Finn", "BMO", "Princess Bubblegum", "LSP"]
+}
